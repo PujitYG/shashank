@@ -54,9 +54,7 @@ a{
 .nav-right{
     padding-right:30px;
 }
-#body{
-    min-width: 1280px;
-}
+
 
 #department{
     display: none;
@@ -105,4 +103,12 @@ img{
 
 #parent-dup{
     background-color: #FF9A2F;
+}
+
+#body{
+    min-width: 800px;
+}
+
+.card{
+    width:100%;
 }
