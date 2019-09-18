@@ -1,0 +1,93 @@
+#btn-id{
+    color:white;
+    background-color:#232f3e;
+    border: 0;
+}
+
+.navm{
+    list-style-type: none;
+    display: flex;
+    background-color:#232f3e;
+    margin:5px;
+    padding-left: 0;
+}
+.navbarm{
+    padding: 5px 5px;
+    margin-top:5px;
+}
+#body{
+font-size:15px;
+margin: 0;
+}
+
+#nav1{
+    font-size: 15px;
+    padding-left: 20px;
+    display: flex;
+    background-color: #232f3e;
+    color:white;
+}
+a{
+    text-decoration: none;
+}
+.nav-text-box{
+    margin-left: 10%;
+    width:60%;
+}
+.text-box{
+    width:90%;
+    padding:0;
+}
+.text{
+    width:100%;
+    height: 100%;
+}
+.words{
+    margin-left:5%;
+}
+.search{
+   background-color: #febd69;
+}
+.nav-two{
+ margin-left:11%;
+}
+.nav-right{
+    padding-right:30px;
+}
+#body{
+    min-width: 1280px;
+}
+
+#department{
+    display: none;
+    font-size:20px;
+    font-weight: bolder;
+    position: absolute;
+    top:110px;
+    color:BLACK;
+    z-index: 1;
+}
+
+.fa-sort-down{
+    margin-left:5px;
+    padding-top:0;
+}
+
+
+img{
+    height: 300px;
+}
+
+
+#main-container{
+    margin:0 10%;
+}
+
+#car-col{
+    padding:0;
+}
+
+#card-row{
+    background-image:linear-gradient(#febd69,white);
+
+}
