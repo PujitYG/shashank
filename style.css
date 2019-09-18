@@ -30,20 +30,17 @@ margin: 0;
 a{
     text-decoration: none;
 }
-.nav-text-box{
-    margin-left: 10%;
+.nav-text{
+    margin-left:10%;
     width:60%;
 }
-.text-box{
-    width:90%;
-    padding:0;
-}
-.text{
-    width:100%;
-    height: 100%;
+
+.nav-text-box{
+    margin:auto;
+    width:60%;
 }
 .words{
-    margin-left:5%;
+    margin-left:auto;
 }
 .search{
    background-color: #febd69;
@@ -54,7 +51,6 @@ a{
 .nav-right{
     padding-right:30px;
 }
-
 
 #department{
     display: none;
@@ -116,4 +112,14 @@ img{
 .right{
     margin-left: auto;
     display: flex;
+}
+
+
+.nav-text-search{
+    display:flex;
+}
+
+.fa{
+    background-color: #FF9A2F;
+    padding:5px;
 }
