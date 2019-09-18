@@ -112,3 +112,8 @@ img{
 .card{
     width:100%;
 }
+
+.right{
+    margin-left: auto;
+    display: flex;
+}
