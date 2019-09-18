@@ -88,6 +88,21 @@ img{
 }
 
 #card-row{
-    background-image:linear-gradient(#FF992E,white);
+    background-image:linear-gradient(#FF9A2F,white);
 
+}
+
+#card-row-dup{
+    border-radius: 5%;
+    text-align:center;
+    background-color: white;
+    margin:auto;
+    width:80%;
+    padding:0;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+#parent-dup{
+    background-color: #FF9A2F;
 }
